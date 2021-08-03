@@ -1,3 +1,5 @@
-### 你好，你不该来这，这只是一个脚本小鬼给自己留的一个小号 👋
+### hi~ 我是欧阳淇淇👋
+email：ceo@hybgzs.cn
+blog:https://ouyangqiqi.cn
 [![hyb-oyqq GitHub stats](https://github-readme-stats.vercel.app/api?username=hyb-oyqq&show_icons=true&locale=cn&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
