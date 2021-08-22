@@ -5,7 +5,7 @@ Hello, I’m Ouyang Qiqi (*´▽｀)ノノ
 My main business is not program, so please forgive me<br>
 如果有问题请通过下面的方式联系我，谢谢♪(･ω･)ﾉ<br>
 If you have any questions, please contact me through the following methods, thank you♪(･ω･)ﾉ<br>
-email：ceo@hybgzs.cn<br>
+Email：ceo@hybgzs.cn<br>
 blog（中文）:https://ouyangqiqi.cn<br>
 QQ：1512383570<br>
 telegram:@ouyangqiqi<br>
