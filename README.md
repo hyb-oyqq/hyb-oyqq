@@ -1,5 +1,4 @@
-## hi~ 我是欧阳淇淇 (*´▽｀)ノノ
-Hello, I’m Ouyang Qiqi (*´▽｀)ノノ
+## hi~ 我是欧阳淇淇 (*´▽｀)ノノHello, I’m Ouyang Qiqi
 <br>
 我的主业并不是程序，所以请见谅<br>
 My main business is not program, so please forgive me<br>
