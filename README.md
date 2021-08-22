@@ -8,6 +8,6 @@ Email：ceo@hybgzs.cn<br>
 blog（中文）:https://ouyangqiqi.cn<br>
 QQ：1512383570/3634972166<br>
 telegram:@ouyangqiqi<br>
-<br>
-[![hyb-oyqq GitHub stats](https://github-readme-stats.vercel.app/api?username=hyb-oyqq&show_icons=true&locale=cn&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+[![hyb-oyqq GitHub stats](https://github-readme-stats.vercel.app/api?username=hyb-oyqq&count_private=true&show_icons=true&locale=cn&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
