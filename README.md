@@ -1,4 +1,5 @@
-## hi~ 我是欧阳淇淇 (*´▽｀)ノノHello, I’m Ouyang Qiqi
+## hi~ 我是欧阳淇淇 (*´▽｀)ノノ
+## Hello, I’m Ouyang Qiqi
 <br>
 我的主业并不是程序，所以请见谅<br>
 My main business is not program, so please forgive me<br>
@@ -6,7 +7,7 @@ My main business is not program, so please forgive me<br>
 If you have any questions, please contact me through the following methods, thank you♪(･ω･)ﾉ<br>
 Email：ceo@hybgzs.cn<br>
 blog（中文）:https://ouyangqiqi.cn<br>
-telegram:https://t.me/ouyangqiqiqi<br>
+telegram:https://t.me/ouyangqiqi<br>
 
 [![hyb-oyqq GitHub stats](https://github-readme-stats.vercel.app/api?username=hyb-oyqq&count_private=true&show_icons=true&locale=cn&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
